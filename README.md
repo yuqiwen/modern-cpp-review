@@ -1,17 +1,27 @@
 # C++ Interview Prep
 
-This repository is my personal C++ review and interview preparation notebook.
+This repository is a personal C++ review and interview-prep notebook focused on practical understanding rather than full language coverage.
 
-The goal is not to summarize every detail of the C++ language, but to build a practical understanding of the concepts that frequently appear in software engineering, quant developer, systems, and performance-oriented interviews.
+## Quick Navigation
 
-## Structure
+- [Cheat Sheet Index](./cheat_sheet/README.md)
+- [Code Traps Index](./code_traps/README.md)
+- [Topic 01: Pointer, Reference, and Parameter Passing](./cheat_sheet/01_pointer_reference_parameter.md)
+- [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 
-- `cheat_sheet/`: topic-based C++ notes with core ideas, traps, and examples.
-- `code_traps/`: small C++ programs that demonstrate common pitfalls.
-- `interview_answers/`: concise answers to common C++ interview questions.
-- `practice/`: implementation practice for data structures, concurrency, and system design components.
+## Repository Structure
 
-## Main Topics
+- `cheat_sheet/`: topic-based notes with core ideas, traps, and examples
+- `code_traps/`: small C++ programs that demonstrate common pitfalls
+- `interview_answers/`: concise answers to common C++ interview questions
+- `practice/`: implementation practice for data structures, concurrency, and system design components
+
+## Code Traps
+
+1. [Pointer / Reference / Parameter Passing Demo](./code_traps/pointer_reference_parameter.cpp)
+   Related note: [01. Pointer, Reference, and Parameter Passing](./cheat_sheet/01_pointer_reference_parameter.md)
+
+## Planned Topics
 
 1. Object, lifetime, and storage duration
 2. Pointer vs reference
@@ -28,9 +38,9 @@ The goal is not to summarize every detail of the C++ language, but to build a pr
 13. Atomic operations and memory ordering
 14. Performance, cache locality, and alignment
 
-## Review Style
+## Suggested Writing Pattern
 
-Each topic follows this format:
+Each topic can follow this structure:
 
 1. Core idea
 2. Common interview questions

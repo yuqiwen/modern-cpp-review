@@ -1,5 +1,33 @@
 # 01. Pointer, Reference, and Parameter Passing
 
+## Table of Contents
+
+- [Related Code Trap](#related-code-trap)
+- [1. Core Idea](#1-core-idea)
+- [2. Pointer](#2-pointer)
+- [3. Reference](#3-reference)
+- [4. Common Trap: Reference Assignment](#4-common-trap-reference-assignment)
+- [5. Pointer vs Reference Interview Answer](#5-pointer-vs-reference-interview-answer)
+- [6. Parameter Passing](#6-parameter-passing)
+- [7. Pass by Value](#7-pass-by-value)
+- [8. Pass by Const Reference](#8-pass-by-const-reference)
+- [9. Pass by Non-const Reference](#9-pass-by-non-const-reference)
+- [10. Pass by Pointer](#10-pass-by-pointer)
+- [11. Pass by Rvalue Reference](#11-pass-by-rvalue-reference)
+- [12. Ownership Parameters](#12-ownership-parameters)
+- [13. Const Value Parameter](#13-const-value-parameter)
+- [14. Temporary Lifetime and Const Reference](#14-temporary-lifetime-and-const-reference)
+- [15. Dangling Pointer and Dangling Reference](#15-dangling-pointer-and-dangling-reference)
+- [16. Practice Example](#16-practice-example)
+- [17. Parameter Selection Table](#17-parameter-selection-table)
+- [18. Common Interview Questions](#18-common-interview-questions)
+- [19. Key Takeaways](#19-key-takeaways)
+
+## Related Code Trap
+
+- [Pointer / Reference / Parameter Passing Demo](../code_traps/pointer_reference_parameter.cpp)
+- [Code Traps Index](../code_traps/README.md)
+
 ## 1. Core Idea
 
 In C++, a variable name is used to access an object.
