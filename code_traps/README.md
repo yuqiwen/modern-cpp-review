@@ -6,6 +6,8 @@ This folder contains small C++ programs that demonstrate common interview and im
 
 1. [Pointer / Reference / Parameter Passing Demo](./pointer_reference_parameter.cpp)
    Related note: [01. Pointer, Reference, and Parameter Passing](../cheat_sheet/01_pointer_reference_parameter.md)
+2. [Object Lifetime / Storage Demo](./object_lifetime_storage.cpp)
+   Related note: [02. Object Lifetime and Storage Duration](../cheat_sheet/02_object_lifetime_storage.md)
 
 ## Suggested Naming Rule
 

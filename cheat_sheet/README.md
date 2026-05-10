@@ -5,10 +5,12 @@ This folder contains topic-based C++ review notes.
 ## Topics
 
 1. [01. Pointer, Reference, and Parameter Passing](./01_pointer_reference_parameter.md)
+2. [02. Object Lifetime and Storage Duration](./02_object_lifetime_storage.md)
 
 ## Related Code Traps
 
 1. [Pointer / Reference / Parameter Passing Demo](../code_traps/pointer_reference_parameter.cpp)
+2. [Object Lifetime / Storage Demo](../code_traps/object_lifetime_storage.cpp)
 
 ## Suggested Naming Rule
 
