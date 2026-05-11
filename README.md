@@ -8,8 +8,10 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Traps Index](./code_traps/README.md)
 - [Topic 01: Pointer, Reference, and Parameter Passing](./cheat_sheet/01_pointer_reference_parameter.md)
 - [Topic 02: Object Lifetime and Storage Duration](./cheat_sheet/02_object_lifetime_storage.md)
+- [Topic 03: Constructor, Destructor, and RAII](./cheat_sheet/03_constructor_destructor_raii.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
+- [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
 
 ## Repository Structure
 
@@ -24,6 +26,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
    Related note: [01. Pointer, Reference, and Parameter Passing](./cheat_sheet/01_pointer_reference_parameter.md)
 2. [Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
    Related note: [02. Object Lifetime and Storage Duration](./cheat_sheet/02_object_lifetime_storage.md)
+3. [Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
+   Related note: [03. Constructor, Destructor, and RAII](./cheat_sheet/03_constructor_destructor_raii.md)
 
 ## Planned Topics
 

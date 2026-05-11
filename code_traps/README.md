@@ -8,6 +8,8 @@ This folder contains small C++ programs that demonstrate common interview and im
    Related note: [01. Pointer, Reference, and Parameter Passing](../cheat_sheet/01_pointer_reference_parameter.md)
 2. [Object Lifetime / Storage Demo](./object_lifetime_storage.cpp)
    Related note: [02. Object Lifetime and Storage Duration](../cheat_sheet/02_object_lifetime_storage.md)
+3. [Constructor / Destructor / RAII Demo](./constructor_destructor_raii.cpp)
+   Related note: [03. Constructor, Destructor, and RAII](../cheat_sheet/03_constructor_destructor_raii.md)
 
 ## Suggested Naming Rule
 
