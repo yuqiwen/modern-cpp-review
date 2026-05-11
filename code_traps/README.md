@@ -10,6 +10,8 @@ This folder contains small C++ programs that demonstrate common interview and im
    Related note: [02. Object Lifetime and Storage Duration](../cheat_sheet/02_object_lifetime_storage.md)
 3. [Constructor / Destructor / RAII Demo](./constructor_destructor_raii.cpp)
    Related note: [03. Constructor, Destructor, and RAII](../cheat_sheet/03_constructor_destructor_raii.md)
+4. [Rule of Three / Five / Zero Demo](./rule_of_three_five_zero.cpp)
+   Related note: [04. Rule of Three, Rule of Five, and Rule of Zero](../cheat_sheet/04_rule_of_three_five_zero.md)
 
 ## Suggested Naming Rule
 
