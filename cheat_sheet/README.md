@@ -8,6 +8,7 @@ This folder contains topic-based C++ review notes.
 2. [02. Object Lifetime and Storage Duration](./02_object_lifetime_storage.md)
 3. [03. Constructor, Destructor, and RAII](./03_constructor_destructor_raii.md)
 4. [04. Rule of Three, Rule of Five, and Rule of Zero](./04_rule_of_three_five_zero.md)
+5. [05. Copy and Move Call Timing](./05_copy_move_call_timing.md)
 
 ## Related Code Traps
 
@@ -15,6 +16,7 @@ This folder contains topic-based C++ review notes.
 2. [Object Lifetime / Storage Demo](../code_traps/object_lifetime_storage.cpp)
 3. [Constructor / Destructor / RAII Demo](../code_traps/constructor_destructor_raii.cpp)
 4. [Rule of Three / Five / Zero Demo](../code_traps/rule_of_three_five_zero.cpp)
+5. [Copy / Move Call Timing Demo](../code_traps/copy_move_call_timing.cpp)
 
 ## Suggested Naming Rule
 

@@ -10,10 +10,12 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 02: Object Lifetime and Storage Duration](./cheat_sheet/02_object_lifetime_storage.md)
 - [Topic 03: Constructor, Destructor, and RAII](./cheat_sheet/03_constructor_destructor_raii.md)
 - [Topic 04: Rule of Three, Rule of Five, and Rule of Zero](./cheat_sheet/04_rule_of_three_five_zero.md)
+- [Topic 05: Copy and Move Call Timing](./cheat_sheet/05_copy_move_call_timing.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
 - [Code Trap: Rule of Three / Five / Zero Demo](./code_traps/rule_of_three_five_zero.cpp)
+- [Code Trap: Copy / Move Call Timing Demo](./code_traps/copy_move_call_timing.cpp)
 
 ## Repository Structure
 
@@ -32,6 +34,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
    Related note: [03. Constructor, Destructor, and RAII](./cheat_sheet/03_constructor_destructor_raii.md)
 4. [Rule of Three / Five / Zero Demo](./code_traps/rule_of_three_five_zero.cpp)
    Related note: [04. Rule of Three, Rule of Five, and Rule of Zero](./cheat_sheet/04_rule_of_three_five_zero.md)
+5. [Copy / Move Call Timing Demo](./code_traps/copy_move_call_timing.cpp)
+   Related note: [05. Copy and Move Call Timing](./cheat_sheet/05_copy_move_call_timing.md)
 
 ## Planned Topics
 

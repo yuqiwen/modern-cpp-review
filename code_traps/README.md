@@ -12,6 +12,8 @@ This folder contains small C++ programs that demonstrate common interview and im
    Related note: [03. Constructor, Destructor, and RAII](../cheat_sheet/03_constructor_destructor_raii.md)
 4. [Rule of Three / Five / Zero Demo](./rule_of_three_five_zero.cpp)
    Related note: [04. Rule of Three, Rule of Five, and Rule of Zero](../cheat_sheet/04_rule_of_three_five_zero.md)
+5. [Copy / Move Call Timing Demo](./copy_move_call_timing.cpp)
+   Related note: [05. Copy and Move Call Timing](../cheat_sheet/05_copy_move_call_timing.md)
 
 ## Suggested Naming Rule
 
