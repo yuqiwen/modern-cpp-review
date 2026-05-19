@@ -14,6 +14,8 @@ This folder contains small C++ programs that demonstrate common interview and im
    Related note: [04. Rule of Three, Rule of Five, and Rule of Zero](../cheat_sheet/04_rule_of_three_five_zero.md)
 5. [Copy / Move Call Timing Demo](./copy_move_call_timing.cpp)
    Related note: [05. Copy and Move Call Timing](../cheat_sheet/05_copy_move_call_timing.md)
+6. [Const Correctness Demo](./const_correctness.cpp)
+   Related note: [06. Const Correctness](../cheat_sheet/06_const_correctness.md)
 
 ## Suggested Naming Rule
 
