@@ -12,12 +12,14 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 04: Rule of Three, Rule of Five, and Rule of Zero](./cheat_sheet/04_rule_of_three_five_zero.md)
 - [Topic 05: Copy and Move Call Timing](./cheat_sheet/05_copy_move_call_timing.md)
 - [Topic 06: Const Correctness](./cheat_sheet/06_const_correctness.md)
+- [Topic 07: Smart Pointers](./cheat_sheet/07_smart_pointers.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
 - [Code Trap: Rule of Three / Five / Zero Demo](./code_traps/rule_of_three_five_zero.cpp)
 - [Code Trap: Copy / Move Call Timing Demo](./code_traps/copy_move_call_timing.cpp)
 - [Code Trap: Const Correctness Demo](./code_traps/const_correctness.cpp)
+- [Code Trap: Smart Pointers Demo](./code_traps/smart_pointers.cpp)
 
 ## Repository Structure
 
@@ -40,6 +42,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
    Related note: [05. Copy and Move Call Timing](./cheat_sheet/05_copy_move_call_timing.md)
 6. [Const Correctness Demo](./code_traps/const_correctness.cpp)
    Related note: [06. Const Correctness](./cheat_sheet/06_const_correctness.md)
+7. [Smart Pointers Demo](./code_traps/smart_pointers.cpp)
+   Related note: [07. Smart Pointers](./cheat_sheet/07_smart_pointers.md)
 
 ## Planned Topics
 

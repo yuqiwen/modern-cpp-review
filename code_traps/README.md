@@ -16,6 +16,8 @@ This folder contains small C++ programs that demonstrate common interview and im
    Related note: [05. Copy and Move Call Timing](../cheat_sheet/05_copy_move_call_timing.md)
 6. [Const Correctness Demo](./const_correctness.cpp)
    Related note: [06. Const Correctness](../cheat_sheet/06_const_correctness.md)
+7. [Smart Pointers Demo](./smart_pointers.cpp)
+   Related note: [07. Smart Pointers](../cheat_sheet/07_smart_pointers.md)
 
 ## Suggested Naming Rule
 

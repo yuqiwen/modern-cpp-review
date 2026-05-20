@@ -10,6 +10,7 @@ This folder contains topic-based C++ review notes.
 4. [04. Rule of Three, Rule of Five, and Rule of Zero](./04_rule_of_three_five_zero.md)
 5. [05. Copy and Move Call Timing](./05_copy_move_call_timing.md)
 6. [06. Const Correctness](./06_const_correctness.md)
+7. [07. Smart Pointers](./07_smart_pointers.md)
 
 ## Related Code Traps
 
@@ -19,6 +20,7 @@ This folder contains topic-based C++ review notes.
 4. [Rule of Three / Five / Zero Demo](../code_traps/rule_of_three_five_zero.cpp)
 5. [Copy / Move Call Timing Demo](../code_traps/copy_move_call_timing.cpp)
 6. [Const Correctness Demo](../code_traps/const_correctness.cpp)
+7. [Smart Pointers Demo](../code_traps/smart_pointers.cpp)
 
 ## Suggested Naming Rule
 
