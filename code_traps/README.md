@@ -18,6 +18,8 @@ This folder contains small C++ programs that demonstrate common interview and im
    Related note: [06. Const Correctness](../cheat_sheet/06_const_correctness.md)
 7. [Smart Pointers Demo](./smart_pointers.cpp)
    Related note: [07. Smart Pointers](../cheat_sheet/07_smart_pointers.md)
+8. [Inheritance / Virtual / VTable Demo](./inheritance_virtual_vtable.cpp)
+   Related note: [08. Inheritance, Virtual Functions, VTable, and Virtual Destructor](../cheat_sheet/08_inheritance_virtual_vtable.md)
 
 ## Suggested Naming Rule
 
