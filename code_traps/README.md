@@ -20,6 +20,8 @@ This folder contains small C++ programs that demonstrate common interview and im
    Related note: [07. Smart Pointers](../cheat_sheet/07_smart_pointers.md)
 8. [Inheritance / Virtual / VTable Demo](./inheritance_virtual_vtable.cpp)
    Related note: [08. Inheritance, Virtual Functions, VTable, and Virtual Destructor](../cheat_sheet/08_inheritance_virtual_vtable.md)
+9. [C++ Casts Demo](./cpp_casts.cpp)
+   Related note: [09. C++ Casts](../cheat_sheet/09_cpp_casts.md)
 
 ## Suggested Naming Rule
 

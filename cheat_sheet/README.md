@@ -12,6 +12,7 @@ This folder contains topic-based C++ review notes.
 6. [06. Const Correctness](./06_const_correctness.md)
 7. [07. Smart Pointers](./07_smart_pointers.md)
 8. [08. Inheritance, Virtual Functions, VTable, and Virtual Destructor](./08_inheritance_virtual_vtable.md)
+9. [09. C++ Casts](./09_cpp_casts.md)
 
 ## Related Code Traps
 
@@ -23,6 +24,7 @@ This folder contains topic-based C++ review notes.
 6. [Const Correctness Demo](../code_traps/const_correctness.cpp)
 7. [Smart Pointers Demo](../code_traps/smart_pointers.cpp)
 8. [Inheritance / Virtual / VTable Demo](../code_traps/inheritance_virtual_vtable.cpp)
+9. [C++ Casts Demo](../code_traps/cpp_casts.cpp)
 
 ## Suggested Naming Rule
 
