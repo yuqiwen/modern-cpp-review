@@ -13,6 +13,7 @@ This folder contains topic-based C++ review notes.
 7. [07. Smart Pointers](./07_smart_pointers.md)
 8. [08. Inheritance, Virtual Functions, VTable, and Virtual Destructor](./08_inheritance_virtual_vtable.md)
 9. [09. C++ Casts](./09_cpp_casts.md)
+10. [10. STL Containers Overview](./10_stl_containers_overview.md)
 
 ## Related Code Traps
 
@@ -25,6 +26,7 @@ This folder contains topic-based C++ review notes.
 7. [Smart Pointers Demo](../code_traps/smart_pointers.cpp)
 8. [Inheritance / Virtual / VTable Demo](../code_traps/inheritance_virtual_vtable.cpp)
 9. [C++ Casts Demo](../code_traps/cpp_casts.cpp)
+10. [STL Containers Overview Demo](../code_traps/stl_containers_overview.cpp)
 
 ## Suggested Naming Rule
 

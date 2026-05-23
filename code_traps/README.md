@@ -22,6 +22,8 @@ This folder contains small C++ programs that demonstrate common interview and im
    Related note: [08. Inheritance, Virtual Functions, VTable, and Virtual Destructor](../cheat_sheet/08_inheritance_virtual_vtable.md)
 9. [C++ Casts Demo](./cpp_casts.cpp)
    Related note: [09. C++ Casts](../cheat_sheet/09_cpp_casts.md)
+10. [STL Containers Overview Demo](./stl_containers_overview.cpp)
+    Related note: [10. STL Containers Overview](../cheat_sheet/10_stl_containers_overview.md)
 
 ## Suggested Naming Rule
 

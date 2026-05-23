@@ -15,6 +15,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 07: Smart Pointers](./cheat_sheet/07_smart_pointers.md)
 - [Topic 08: Inheritance, Virtual Functions, VTable, and Virtual Destructor](./cheat_sheet/08_inheritance_virtual_vtable.md)
 - [Topic 09: C++ Casts](./cheat_sheet/09_cpp_casts.md)
+- [Topic 10: STL Containers Overview](./cheat_sheet/10_stl_containers_overview.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
@@ -24,6 +25,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Trap: Smart Pointers Demo](./code_traps/smart_pointers.cpp)
 - [Code Trap: Inheritance / Virtual / VTable Demo](./code_traps/inheritance_virtual_vtable.cpp)
 - [Code Trap: C++ Casts Demo](./code_traps/cpp_casts.cpp)
+- [Code Trap: STL Containers Overview Demo](./code_traps/stl_containers_overview.cpp)
 
 ## Repository Structure
 
@@ -52,6 +54,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
    Related note: [08. Inheritance, Virtual Functions, VTable, and Virtual Destructor](./cheat_sheet/08_inheritance_virtual_vtable.md)
 9. [C++ Casts Demo](./code_traps/cpp_casts.cpp)
    Related note: [09. C++ Casts](./cheat_sheet/09_cpp_casts.md)
+10. [STL Containers Overview Demo](./code_traps/stl_containers_overview.cpp)
+    Related note: [10. STL Containers Overview](./cheat_sheet/10_stl_containers_overview.md)
 
 ## Planned Topics
 
