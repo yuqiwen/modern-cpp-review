@@ -16,6 +16,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 08: Inheritance, Virtual Functions, VTable, and Virtual Destructor](./cheat_sheet/08_inheritance_virtual_vtable.md)
 - [Topic 09: C++ Casts](./cheat_sheet/09_cpp_casts.md)
 - [Topic 10: STL Containers Overview](./cheat_sheet/10_stl_containers_overview.md)
+- [Topic 11: std::vector Deep Dive](./cheat_sheet/11_vector_deep_dive.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)

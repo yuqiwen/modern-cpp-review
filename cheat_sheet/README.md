@@ -14,6 +14,7 @@ This folder contains topic-based C++ review notes.
 8. [08. Inheritance, Virtual Functions, VTable, and Virtual Destructor](./08_inheritance_virtual_vtable.md)
 9. [09. C++ Casts](./09_cpp_casts.md)
 10. [10. STL Containers Overview](./10_stl_containers_overview.md)
+11. [11. std::vector Deep Dive](./11_vector_deep_dive.md)
 
 ## Related Code Traps
 
