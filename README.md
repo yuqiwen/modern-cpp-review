@@ -27,6 +27,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Trap: Inheritance / Virtual / VTable Demo](./code_traps/inheritance_virtual_vtable.cpp)
 - [Code Trap: C++ Casts Demo](./code_traps/cpp_casts.cpp)
 - [Code Trap: STL Containers Overview Demo](./code_traps/stl_containers_overview.cpp)
+- [Code Trap: Vector Deep Dive Demo](./code_traps/vector_deep_dive.cpp)
 
 ## Repository Structure
 
@@ -57,6 +58,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
    Related note: [09. C++ Casts](./cheat_sheet/09_cpp_casts.md)
 10. [STL Containers Overview Demo](./code_traps/stl_containers_overview.cpp)
     Related note: [10. STL Containers Overview](./cheat_sheet/10_stl_containers_overview.md)
+11. [Vector Deep Dive Demo](./code_traps/vector_deep_dive.cpp)
+    Related note: [11. std::vector Deep Dive](./cheat_sheet/11_vector_deep_dive.md)
 
 ## Planned Topics
 

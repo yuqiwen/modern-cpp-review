@@ -26,7 +26,7 @@
 
 ## Related Code Trap
 
-- [STL Containers Overview Demo](../code_traps/stl_containers_overview.cpp)
+- [Vector Deep Dive Demo](../code_traps/vector_deep_dive.cpp)
 - [Code Traps Index](../code_traps/README.md)
 
 ## 1. Core Idea

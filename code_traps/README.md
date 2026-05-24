@@ -24,6 +24,8 @@ This folder contains small C++ programs that demonstrate common interview and im
    Related note: [09. C++ Casts](../cheat_sheet/09_cpp_casts.md)
 10. [STL Containers Overview Demo](./stl_containers_overview.cpp)
     Related note: [10. STL Containers Overview](../cheat_sheet/10_stl_containers_overview.md)
+11. [Vector Deep Dive Demo](./vector_deep_dive.cpp)
+    Related note: [11. std::vector Deep Dive](../cheat_sheet/11_vector_deep_dive.md)
 
 ## Suggested Naming Rule
 
