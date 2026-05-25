@@ -26,6 +26,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [10. STL Containers Overview](../cheat_sheet/10_stl_containers_overview.md)
 11. [Vector Deep Dive Demo](./vector_deep_dive.cpp)
     Related note: [11. std::vector Deep Dive](../cheat_sheet/11_vector_deep_dive.md)
+12. [Iterator Invalidation / unordered_map Rehash Demo](./iterator_invalidation_unordered_map.cpp)
+    Related note: [12. Iterator Invalidation and unordered_map Rehash](../cheat_sheet/12_iterator_invalidation_unordered_map.md)
 
 ## Suggested Naming Rule
 

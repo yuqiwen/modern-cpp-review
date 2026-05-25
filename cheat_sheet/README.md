@@ -15,6 +15,7 @@ This folder contains topic-based C++ review notes.
 9. [09. C++ Casts](./09_cpp_casts.md)
 10. [10. STL Containers Overview](./10_stl_containers_overview.md)
 11. [11. std::vector Deep Dive](./11_vector_deep_dive.md)
+12. [12. Iterator Invalidation and unordered_map Rehash](./12_iterator_invalidation_unordered_map.md)
 
 ## Related Code Traps
 
@@ -28,6 +29,8 @@ This folder contains topic-based C++ review notes.
 8. [Inheritance / Virtual / VTable Demo](../code_traps/inheritance_virtual_vtable.cpp)
 9. [C++ Casts Demo](../code_traps/cpp_casts.cpp)
 10. [STL Containers Overview Demo](../code_traps/stl_containers_overview.cpp)
+11. [Vector Deep Dive Demo](../code_traps/vector_deep_dive.cpp)
+12. [Iterator Invalidation / unordered_map Rehash Demo](../code_traps/iterator_invalidation_unordered_map.cpp)
 
 ## Suggested Naming Rule
 
