@@ -19,6 +19,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 11: std::vector Deep Dive](./cheat_sheet/11_vector_deep_dive.md)
 - [Topic 12: Iterator Invalidation and unordered_map Rehash](./cheat_sheet/12_iterator_invalidation_unordered_map.md)
 - [Topic 13: unordered_map Deep Dive](./cheat_sheet/13_unordered_map_deep_dive.md)
+- [Topic 14: map and set Deep Dive](./cheat_sheet/14_map_set_deep_dive.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
@@ -32,6 +33,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Trap: Vector Deep Dive Demo](./code_traps/vector_deep_dive.cpp)
 - [Code Trap: Iterator Invalidation / unordered_map Rehash Demo](./code_traps/iterator_invalidation_unordered_map.cpp)
 - [Code Trap: unordered_map Deep Dive Demo](./code_traps/unordered_map_deep_dive.cpp)
+- [Code Trap: map and set Deep Dive Demo](./code_traps/map_set_deep_dive.cpp)
 
 ## Repository Structure
 
@@ -68,6 +70,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
     Related note: [12. Iterator Invalidation and unordered_map Rehash](./cheat_sheet/12_iterator_invalidation_unordered_map.md)
 13. [unordered_map Deep Dive Demo](./code_traps/unordered_map_deep_dive.cpp)
     Related note: [13. unordered_map Deep Dive](./cheat_sheet/13_unordered_map_deep_dive.md)
+14. [map and set Deep Dive Demo](./code_traps/map_set_deep_dive.cpp)
+    Related note: [14. map and set Deep Dive](./cheat_sheet/14_map_set_deep_dive.md)
 
 ## Planned Topics
 

@@ -17,6 +17,7 @@ This folder contains topic-based C++ review notes.
 11. [11. std::vector Deep Dive](./11_vector_deep_dive.md)
 12. [12. Iterator Invalidation and unordered_map Rehash](./12_iterator_invalidation_unordered_map.md)
 13. [13. unordered_map Deep Dive](./13_unordered_map_deep_dive.md)
+14. [14. map and set Deep Dive](./14_map_set_deep_dive.md)
 
 ## Related Code Traps
 
@@ -33,6 +34,7 @@ This folder contains topic-based C++ review notes.
 11. [Vector Deep Dive Demo](../code_traps/vector_deep_dive.cpp)
 12. [Iterator Invalidation / unordered_map Rehash Demo](../code_traps/iterator_invalidation_unordered_map.cpp)
 13. [unordered_map Deep Dive Demo](../code_traps/unordered_map_deep_dive.cpp)
+14. [map and set Deep Dive Demo](../code_traps/map_set_deep_dive.cpp)
 
 ## Suggested Naming Rule
 

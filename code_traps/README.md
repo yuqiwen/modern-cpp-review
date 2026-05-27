@@ -30,6 +30,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [12. Iterator Invalidation and unordered_map Rehash](../cheat_sheet/12_iterator_invalidation_unordered_map.md)
 13. [unordered_map Deep Dive Demo](./unordered_map_deep_dive.cpp)
     Related note: [13. unordered_map Deep Dive](../cheat_sheet/13_unordered_map_deep_dive.md)
+14. [map and set Deep Dive Demo](./map_set_deep_dive.cpp)
+    Related note: [14. map and set Deep Dive](../cheat_sheet/14_map_set_deep_dive.md)
 
 ## Suggested Naming Rule
 
