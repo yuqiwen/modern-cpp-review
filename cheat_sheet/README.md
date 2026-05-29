@@ -19,6 +19,7 @@ This folder contains topic-based C++ review notes.
 13. [13. unordered_map Deep Dive](./13_unordered_map_deep_dive.md)
 14. [14. map and set Deep Dive](./14_map_set_deep_dive.md)
 15. [15. STL Algorithms and Comparators](./15_stl_algorithms_comparators.md)
+16. [16. priority_queue Comparator](./16_priority_queue_comparator.md)
 
 ## Related Code Traps
 
@@ -37,6 +38,7 @@ This folder contains topic-based C++ review notes.
 13. [unordered_map Deep Dive Demo](../code_traps/unordered_map_deep_dive.cpp)
 14. [map and set Deep Dive Demo](../code_traps/map_set_deep_dive.cpp)
 15. [STL Algorithms / Comparators Demo](../code_traps/stl_algorithms_comparators.cpp)
+16. [priority_queue Comparator Demo](../code_traps/priority_queue_comparator.cpp)
 
 ## Suggested Naming Rule
 

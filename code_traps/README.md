@@ -34,6 +34,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [14. map and set Deep Dive](../cheat_sheet/14_map_set_deep_dive.md)
 15. [STL Algorithms / Comparators Demo](./stl_algorithms_comparators.cpp)
     Related note: [15. STL Algorithms and Comparators](../cheat_sheet/15_stl_algorithms_comparators.md)
+16. [priority_queue Comparator Demo](./priority_queue_comparator.cpp)
+    Related note: [16. priority_queue Comparator](../cheat_sheet/16_priority_queue_comparator.md)
 
 ## Suggested Naming Rule
 

@@ -21,6 +21,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 13: unordered_map Deep Dive](./cheat_sheet/13_unordered_map_deep_dive.md)
 - [Topic 14: map and set Deep Dive](./cheat_sheet/14_map_set_deep_dive.md)
 - [Topic 15: STL Algorithms and Comparators](./cheat_sheet/15_stl_algorithms_comparators.md)
+- [Topic 16: priority_queue Comparator](./cheat_sheet/16_priority_queue_comparator.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
@@ -36,6 +37,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Trap: unordered_map Deep Dive Demo](./code_traps/unordered_map_deep_dive.cpp)
 - [Code Trap: map and set Deep Dive Demo](./code_traps/map_set_deep_dive.cpp)
 - [Code Trap: STL Algorithms / Comparators Demo](./code_traps/stl_algorithms_comparators.cpp)
+- [Code Trap: priority_queue Comparator Demo](./code_traps/priority_queue_comparator.cpp)
 
 ## Repository Structure
 
@@ -76,6 +78,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
     Related note: [14. map and set Deep Dive](./cheat_sheet/14_map_set_deep_dive.md)
 15. [STL Algorithms / Comparators Demo](./code_traps/stl_algorithms_comparators.cpp)
     Related note: [15. STL Algorithms and Comparators](./cheat_sheet/15_stl_algorithms_comparators.md)
+16. [priority_queue Comparator Demo](./code_traps/priority_queue_comparator.cpp)
+    Related note: [16. priority_queue Comparator](./cheat_sheet/16_priority_queue_comparator.md)
 
 ## Planned Topics
 
