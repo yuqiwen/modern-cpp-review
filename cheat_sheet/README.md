@@ -20,6 +20,7 @@ This folder contains topic-based C++ review notes.
 14. [14. map and set Deep Dive](./14_map_set_deep_dive.md)
 15. [15. STL Algorithms and Comparators](./15_stl_algorithms_comparators.md)
 16. [16. priority_queue Comparator](./16_priority_queue_comparator.md)
+17. [17. Template Basics](./17_template_basics.md)
 
 ## Related Code Traps
 
@@ -39,6 +40,7 @@ This folder contains topic-based C++ review notes.
 14. [map and set Deep Dive Demo](../code_traps/map_set_deep_dive.cpp)
 15. [STL Algorithms / Comparators Demo](../code_traps/stl_algorithms_comparators.cpp)
 16. [priority_queue Comparator Demo](../code_traps/priority_queue_comparator.cpp)
+17. [Template Basics Demo](../code_traps/template_basics.cpp)
 
 ## Suggested Naming Rule
 

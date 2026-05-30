@@ -36,6 +36,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [15. STL Algorithms and Comparators](../cheat_sheet/15_stl_algorithms_comparators.md)
 16. [priority_queue Comparator Demo](./priority_queue_comparator.cpp)
     Related note: [16. priority_queue Comparator](../cheat_sheet/16_priority_queue_comparator.md)
+17. [Template Basics Demo](./template_basics.cpp)
+    Related note: [17. Template Basics](../cheat_sheet/17_template_basics.md)
 
 ## Suggested Naming Rule
 
