@@ -21,6 +21,7 @@ This folder contains topic-based C++ review notes.
 15. [15. STL Algorithms and Comparators](./15_stl_algorithms_comparators.md)
 16. [16. priority_queue Comparator](./16_priority_queue_comparator.md)
 17. [17. Template Basics](./17_template_basics.md)
+18. [18. Template Type Deduction and Forwarding Reference](./18_template_deduction_forwarding.md)
 
 ## Related Code Traps
 
@@ -41,6 +42,7 @@ This folder contains topic-based C++ review notes.
 15. [STL Algorithms / Comparators Demo](../code_traps/stl_algorithms_comparators.cpp)
 16. [priority_queue Comparator Demo](../code_traps/priority_queue_comparator.cpp)
 17. [Template Basics Demo](../code_traps/template_basics.cpp)
+18. [Template Deduction / Forwarding Demo](../code_traps/template_deduction_forwarding.cpp)
 
 ## Suggested Naming Rule
 

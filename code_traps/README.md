@@ -38,6 +38,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [16. priority_queue Comparator](../cheat_sheet/16_priority_queue_comparator.md)
 17. [Template Basics Demo](./template_basics.cpp)
     Related note: [17. Template Basics](../cheat_sheet/17_template_basics.md)
+18. [Template Deduction / Forwarding Demo](./template_deduction_forwarding.cpp)
+    Related note: [18. Template Type Deduction and Forwarding Reference](../cheat_sheet/18_template_deduction_forwarding.md)
 
 ## Suggested Naming Rule
 
