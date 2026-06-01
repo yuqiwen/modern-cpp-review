@@ -24,6 +24,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 16: priority_queue Comparator](./cheat_sheet/16_priority_queue_comparator.md)
 - [Topic 17: Template Basics](./cheat_sheet/17_template_basics.md)
 - [Topic 18: Template Type Deduction and Forwarding Reference](./cheat_sheet/18_template_deduction_forwarding.md)
+- [Topic 19: Advanced Templates Lite](./cheat_sheet/19_advanced_templates_lite.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
@@ -42,6 +43,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Trap: priority_queue Comparator Demo](./code_traps/priority_queue_comparator.cpp)
 - [Code Trap: Template Basics Demo](./code_traps/template_basics.cpp)
 - [Code Trap: Template Deduction / Forwarding Demo](./code_traps/template_deduction_forwarding.cpp)
+- [Code Trap: Advanced Templates Lite Demo](./code_traps/advanced_templates_lite.cpp)
 
 ## Repository Structure
 
@@ -88,6 +90,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
     Related note: [17. Template Basics](./cheat_sheet/17_template_basics.md)
 18. [Template Deduction / Forwarding Demo](./code_traps/template_deduction_forwarding.cpp)
     Related note: [18. Template Type Deduction and Forwarding Reference](./cheat_sheet/18_template_deduction_forwarding.md)
+19. [Advanced Templates Lite Demo](./code_traps/advanced_templates_lite.cpp)
+    Related note: [19. Advanced Templates Lite](./cheat_sheet/19_advanced_templates_lite.md)
 
 ## Planned Topics
 

@@ -40,6 +40,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [17. Template Basics](../cheat_sheet/17_template_basics.md)
 18. [Template Deduction / Forwarding Demo](./template_deduction_forwarding.cpp)
     Related note: [18. Template Type Deduction and Forwarding Reference](../cheat_sheet/18_template_deduction_forwarding.md)
+19. [Advanced Templates Lite Demo](./advanced_templates_lite.cpp)
+    Related note: [19. Advanced Templates Lite](../cheat_sheet/19_advanced_templates_lite.md)
 
 ## Suggested Naming Rule
 

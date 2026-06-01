@@ -22,6 +22,7 @@ This folder contains topic-based C++ review notes.
 16. [16. priority_queue Comparator](./16_priority_queue_comparator.md)
 17. [17. Template Basics](./17_template_basics.md)
 18. [18. Template Type Deduction and Forwarding Reference](./18_template_deduction_forwarding.md)
+19. [19. Advanced Templates Lite](./19_advanced_templates_lite.md)
 
 ## Related Code Traps
 
@@ -43,6 +44,7 @@ This folder contains topic-based C++ review notes.
 16. [priority_queue Comparator Demo](../code_traps/priority_queue_comparator.cpp)
 17. [Template Basics Demo](../code_traps/template_basics.cpp)
 18. [Template Deduction / Forwarding Demo](../code_traps/template_deduction_forwarding.cpp)
+19. [Advanced Templates Lite Demo](../code_traps/advanced_templates_lite.cpp)
 
 ## Suggested Naming Rule
 
