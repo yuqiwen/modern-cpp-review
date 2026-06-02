@@ -25,6 +25,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 17: Template Basics](./cheat_sheet/17_template_basics.md)
 - [Topic 18: Template Type Deduction and Forwarding Reference](./cheat_sheet/18_template_deduction_forwarding.md)
 - [Topic 19: Advanced Templates Lite](./cheat_sheet/19_advanced_templates_lite.md)
+- [Topic 20: Generic Container, Allocator, Placement New, and Object Lifetime](./cheat_sheet/20_generic_container_allocator_placement_new.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
@@ -44,6 +45,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Trap: Template Basics Demo](./code_traps/template_basics.cpp)
 - [Code Trap: Template Deduction / Forwarding Demo](./code_traps/template_deduction_forwarding.cpp)
 - [Code Trap: Advanced Templates Lite Demo](./code_traps/advanced_templates_lite.cpp)
+- [Code Trap: Generic Container / Allocator / Placement New Demo](./code_traps/generic_container_allocator_placement_new.cpp)
 
 ## Repository Structure
 
@@ -92,6 +94,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
     Related note: [18. Template Type Deduction and Forwarding Reference](./cheat_sheet/18_template_deduction_forwarding.md)
 19. [Advanced Templates Lite Demo](./code_traps/advanced_templates_lite.cpp)
     Related note: [19. Advanced Templates Lite](./cheat_sheet/19_advanced_templates_lite.md)
+20. [Generic Container / Allocator / Placement New Demo](./code_traps/generic_container_allocator_placement_new.cpp)
+    Related note: [20. Generic Container, Allocator, Placement New, and Object Lifetime](./cheat_sheet/20_generic_container_allocator_placement_new.md)
 
 ## Planned Topics
 

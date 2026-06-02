@@ -42,6 +42,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [18. Template Type Deduction and Forwarding Reference](../cheat_sheet/18_template_deduction_forwarding.md)
 19. [Advanced Templates Lite Demo](./advanced_templates_lite.cpp)
     Related note: [19. Advanced Templates Lite](../cheat_sheet/19_advanced_templates_lite.md)
+20. [Generic Container / Allocator / Placement New Demo](./generic_container_allocator_placement_new.cpp)
+    Related note: [20. Generic Container, Allocator, Placement New, and Object Lifetime](../cheat_sheet/20_generic_container_allocator_placement_new.md)
 
 ## Suggested Naming Rule
 

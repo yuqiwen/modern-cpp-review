@@ -23,6 +23,7 @@ This folder contains topic-based C++ review notes.
 17. [17. Template Basics](./17_template_basics.md)
 18. [18. Template Type Deduction and Forwarding Reference](./18_template_deduction_forwarding.md)
 19. [19. Advanced Templates Lite](./19_advanced_templates_lite.md)
+20. [20. Generic Container, Allocator, Placement New, and Object Lifetime](./20_generic_container_allocator_placement_new.md)
 
 ## Related Code Traps
 
@@ -45,6 +46,7 @@ This folder contains topic-based C++ review notes.
 17. [Template Basics Demo](../code_traps/template_basics.cpp)
 18. [Template Deduction / Forwarding Demo](../code_traps/template_deduction_forwarding.cpp)
 19. [Advanced Templates Lite Demo](../code_traps/advanced_templates_lite.cpp)
+20. [Generic Container / Allocator / Placement New Demo](../code_traps/generic_container_allocator_placement_new.cpp)
 
 ## Suggested Naming Rule
 
