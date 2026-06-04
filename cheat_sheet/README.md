@@ -25,6 +25,7 @@ This folder contains topic-based C++ review notes.
 19. [19. Advanced Templates Lite](./19_advanced_templates_lite.md)
 20. [20. Generic Container, Allocator, Placement New, and Object Lifetime](./20_generic_container_allocator_placement_new.md)
 21. [21. Generic Container Rule of Five and Exception Safety](./21_generic_container_rule_of_five_exception_safety.md)
+22. [22. Low-level Memory: malloc/free, new/delete, operator new, Placement New](./22_low_level_memory_new_malloc_placement_new.md)
 
 ## Related Code Traps
 
@@ -49,6 +50,7 @@ This folder contains topic-based C++ review notes.
 19. [Advanced Templates Lite Demo](../code_traps/advanced_templates_lite.cpp)
 20. [Generic Container / Allocator / Placement New Demo](../code_traps/generic_container_allocator_placement_new.cpp)
 21. [Generic Container Rule of Five Demo](../code_traps/generic_container_rule_of_five.cpp)
+22. [Low-level Memory Demo](../code_traps/low_level_memory_new_malloc_placement_new.cpp)
 
 ## Suggested Naming Rule
 

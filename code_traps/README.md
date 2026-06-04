@@ -46,6 +46,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [20. Generic Container, Allocator, Placement New, and Object Lifetime](../cheat_sheet/20_generic_container_allocator_placement_new.md)
 21. [Generic Container Rule of Five Demo](./generic_container_rule_of_five.cpp)
     Related note: [21. Generic Container Rule of Five and Exception Safety](../cheat_sheet/21_generic_container_rule_of_five_exception_safety.md)
+22. [Low-level Memory Demo](./low_level_memory_new_malloc_placement_new.cpp)
+    Related note: [22. Low-level Memory: malloc/free, new/delete, operator new, Placement New](../cheat_sheet/22_low_level_memory_new_malloc_placement_new.md)
 
 ## Suggested Naming Rule
 
