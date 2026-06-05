@@ -28,6 +28,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 20: Generic Container, Allocator, Placement New, and Object Lifetime](./cheat_sheet/20_generic_container_allocator_placement_new.md)
 - [Topic 21: Generic Container Rule of Five and Exception Safety](./cheat_sheet/21_generic_container_rule_of_five_exception_safety.md)
 - [Topic 22: Low-level Memory: malloc/free, new/delete, operator new, Placement New](./cheat_sheet/22_low_level_memory_new_malloc_placement_new.md)
+- [Topic 23: Copy Elision, RVO, NRVO, and Return by Value](./cheat_sheet/23_copy_elision_rvo_return_by_value.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
@@ -50,6 +51,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Trap: Generic Container / Allocator / Placement New Demo](./code_traps/generic_container_allocator_placement_new.cpp)
 - [Code Trap: Generic Container Rule of Five Demo](./code_traps/generic_container_rule_of_five.cpp)
 - [Code Trap: Low-level Memory Demo](./code_traps/low_level_memory_new_malloc_placement_new.cpp)
+- [Code Trap: Copy Elision / RVO Demo](./code_traps/copy_elision_rvo.cpp)
 
 ## Repository Structure
 
@@ -104,6 +106,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
     Related note: [21. Generic Container Rule of Five and Exception Safety](./cheat_sheet/21_generic_container_rule_of_five_exception_safety.md)
 22. [Low-level Memory Demo](./code_traps/low_level_memory_new_malloc_placement_new.cpp)
     Related note: [22. Low-level Memory: malloc/free, new/delete, operator new, Placement New](./cheat_sheet/22_low_level_memory_new_malloc_placement_new.md)
+23. [Copy Elision / RVO Demo](./code_traps/copy_elision_rvo.cpp)
+    Related note: [23. Copy Elision, RVO, NRVO, and Return by Value](./cheat_sheet/23_copy_elision_rvo_return_by_value.md)
 
 ## Planned Topics
 
