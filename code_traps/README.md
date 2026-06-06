@@ -50,6 +50,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [22. Low-level Memory: malloc/free, new/delete, operator new, Placement New](../cheat_sheet/22_low_level_memory_new_malloc_placement_new.md)
 23. [Copy Elision / RVO Demo](./copy_elision_rvo.cpp)
     Related note: [23. Copy Elision, RVO, NRVO, and Return by Value](../cheat_sheet/23_copy_elision_rvo_return_by_value.md)
+24. [Smart Pointers Deep Dive Demo](./smart_pointers_deep_dive.cpp)
+    Related note: [24. Smart Pointers Deep Dive](../cheat_sheet/24_smart_pointers_deep_dive.md)
 
 ## Suggested Naming Rule
 

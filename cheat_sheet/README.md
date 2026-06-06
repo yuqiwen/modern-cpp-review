@@ -27,6 +27,7 @@ This folder contains topic-based C++ review notes.
 21. [21. Generic Container Rule of Five and Exception Safety](./21_generic_container_rule_of_five_exception_safety.md)
 22. [22. Low-level Memory: malloc/free, new/delete, operator new, Placement New](./22_low_level_memory_new_malloc_placement_new.md)
 23. [23. Copy Elision, RVO, NRVO, and Return by Value](./23_copy_elision_rvo_return_by_value.md)
+24. [24. Smart Pointers Deep Dive](./24_smart_pointers_deep_dive.md)
 
 ## Related Code Traps
 
@@ -53,6 +54,7 @@ This folder contains topic-based C++ review notes.
 21. [Generic Container Rule of Five Demo](../code_traps/generic_container_rule_of_five.cpp)
 22. [Low-level Memory Demo](../code_traps/low_level_memory_new_malloc_placement_new.cpp)
 23. [Copy Elision / RVO Demo](../code_traps/copy_elision_rvo.cpp)
+24. [Smart Pointers Deep Dive Demo](../code_traps/smart_pointers_deep_dive.cpp)
 
 ## Suggested Naming Rule
 
