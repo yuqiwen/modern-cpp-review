@@ -30,6 +30,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 22: Low-level Memory: malloc/free, new/delete, operator new, Placement New](./cheat_sheet/22_low_level_memory_new_malloc_placement_new.md)
 - [Topic 23: Copy Elision, RVO, NRVO, and Return by Value](./cheat_sheet/23_copy_elision_rvo_return_by_value.md)
 - [Topic 24: Smart Pointers Deep Dive](./cheat_sheet/24_smart_pointers_deep_dive.md)
+- [Topic 25: shared_ptr Control Block](./cheat_sheet/25_shared_ptr_control_block.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
@@ -54,6 +55,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Trap: Low-level Memory Demo](./code_traps/low_level_memory_new_malloc_placement_new.cpp)
 - [Code Trap: Copy Elision / RVO Demo](./code_traps/copy_elision_rvo.cpp)
 - [Code Trap: Smart Pointers Deep Dive Demo](./code_traps/smart_pointers_deep_dive.cpp)
+- [Code Trap: shared_ptr Control Block Demo](./code_traps/shared_ptr_control_block.cpp)
 
 ## Repository Structure
 
@@ -112,6 +114,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
     Related note: [23. Copy Elision, RVO, NRVO, and Return by Value](./cheat_sheet/23_copy_elision_rvo_return_by_value.md)
 24. [Smart Pointers Deep Dive Demo](./code_traps/smart_pointers_deep_dive.cpp)
     Related note: [24. Smart Pointers Deep Dive](./cheat_sheet/24_smart_pointers_deep_dive.md)
+25. [shared_ptr Control Block Demo](./code_traps/shared_ptr_control_block.cpp)
+    Related note: [25. shared_ptr Control Block](./cheat_sheet/25_shared_ptr_control_block.md)
 
 ## Planned Topics
 

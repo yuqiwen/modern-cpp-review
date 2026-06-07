@@ -52,6 +52,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [23. Copy Elision, RVO, NRVO, and Return by Value](../cheat_sheet/23_copy_elision_rvo_return_by_value.md)
 24. [Smart Pointers Deep Dive Demo](./smart_pointers_deep_dive.cpp)
     Related note: [24. Smart Pointers Deep Dive](../cheat_sheet/24_smart_pointers_deep_dive.md)
+25. [shared_ptr Control Block Demo](./shared_ptr_control_block.cpp)
+    Related note: [25. shared_ptr Control Block](../cheat_sheet/25_shared_ptr_control_block.md)
 
 ## Suggested Naming Rule
 
