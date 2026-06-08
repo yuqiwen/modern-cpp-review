@@ -54,6 +54,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [24. Smart Pointers Deep Dive](../cheat_sheet/24_smart_pointers_deep_dive.md)
 25. [shared_ptr Control Block Demo](./shared_ptr_control_block.cpp)
     Related note: [25. shared_ptr Control Block](../cheat_sheet/25_shared_ptr_control_block.md)
+26. [string / string_view / C string Demo](./string_string_view_c_string.cpp)
+    Related note: [26. std::string, std::string_view, and C string](../cheat_sheet/26_string_string_view_c_string.md)
 
 ## Suggested Naming Rule
 
