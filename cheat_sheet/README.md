@@ -30,6 +30,7 @@ This folder contains topic-based C++ review notes.
 24. [24. Smart Pointers Deep Dive](./24_smart_pointers_deep_dive.md)
 25. [25. shared_ptr Control Block](./25_shared_ptr_control_block.md)
 26. [26. std::string, std::string_view, and C string](./26_string_string_view_c_string.md)
+27. [27. std::span, Array, Vector, and Views](./27_span_array_vector_view.md)
 
 ## Related Code Traps
 
@@ -59,6 +60,7 @@ This folder contains topic-based C++ review notes.
 24. [Smart Pointers Deep Dive Demo](../code_traps/smart_pointers_deep_dive.cpp)
 25. [shared_ptr Control Block Demo](../code_traps/shared_ptr_control_block.cpp)
 26. [string / string_view / C string Demo](../code_traps/string_string_view_c_string.cpp)
+27. [span / array / vector view Demo](../code_traps/span_array_vector_view.cpp)
 
 ## Suggested Naming Rule
 
