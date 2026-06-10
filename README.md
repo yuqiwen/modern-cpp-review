@@ -33,6 +33,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 25: shared_ptr Control Block](./cheat_sheet/25_shared_ptr_control_block.md)
 - [Topic 26: std::string, std::string_view, and C string](./cheat_sheet/26_string_string_view_c_string.md)
 - [Topic 27: std::span, Array, Vector, and Views](./cheat_sheet/27_span_array_vector_view.md)
+- [Topic 28: RAII, Exception Safety, and Scope Guard](./cheat_sheet/28_raii_exception_safety_scope_guard.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
@@ -60,6 +61,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Trap: shared_ptr Control Block Demo](./code_traps/shared_ptr_control_block.cpp)
 - [Code Trap: string / string_view / C string Demo](./code_traps/string_string_view_c_string.cpp)
 - [Code Trap: span / array / vector view Demo](./code_traps/span_array_vector_view.cpp)
+- [Code Trap: RAII / Exception Safety Demo](./code_traps/raii_exception_safety.cpp)
 
 ## Repository Structure
 
@@ -124,6 +126,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
     Related note: [26. std::string, std::string_view, and C string](./cheat_sheet/26_string_string_view_c_string.md)
 27. [span / array / vector view Demo](./code_traps/span_array_vector_view.cpp)
     Related note: [27. std::span, Array, Vector, and Views](./cheat_sheet/27_span_array_vector_view.md)
+28. [RAII / Exception Safety Demo](./code_traps/raii_exception_safety.cpp)
+    Related note: [28. RAII, Exception Safety, and Scope Guard](./cheat_sheet/28_raii_exception_safety_scope_guard.md)
 
 ## Planned Topics
 
