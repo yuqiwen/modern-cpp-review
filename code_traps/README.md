@@ -60,6 +60,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [27. std::span, Array, Vector, and Views](../cheat_sheet/27_span_array_vector_view.md)
 28. [RAII / Exception Safety Demo](./raii_exception_safety.cpp)
     Related note: [28. RAII, Exception Safety, and Scope Guard](../cheat_sheet/28_raii_exception_safety_scope_guard.md)
+29. [optional / variant / any Demo](./optional_variant_any.cpp)
+    Related note: [29. optional, variant, and any](../cheat_sheet/29_optional_variant_any.md)
 
 ## Suggested Naming Rule
 

@@ -32,6 +32,7 @@ This folder contains topic-based C++ review notes.
 26. [26. std::string, std::string_view, and C string](./26_string_string_view_c_string.md)
 27. [27. std::span, Array, Vector, and Views](./27_span_array_vector_view.md)
 28. [28. RAII, Exception Safety, and Scope Guard](./28_raii_exception_safety_scope_guard.md)
+29. [29. optional, variant, and any](./29_optional_variant_any.md)
 
 ## Related Code Traps
 
@@ -63,6 +64,7 @@ This folder contains topic-based C++ review notes.
 26. [string / string_view / C string Demo](../code_traps/string_string_view_c_string.cpp)
 27. [span / array / vector view Demo](../code_traps/span_array_vector_view.cpp)
 28. [RAII / Exception Safety Demo](../code_traps/raii_exception_safety.cpp)
+29. [optional / variant / any Demo](../code_traps/optional_variant_any.cpp)
 
 ## Suggested Naming Rule
 
