@@ -33,6 +33,7 @@ This folder contains topic-based C++ review notes.
 27. [27. std::span, Array, Vector, and Views](./27_span_array_vector_view.md)
 28. [28. RAII, Exception Safety, and Scope Guard](./28_raii_exception_safety_scope_guard.md)
 29. [29. optional, variant, and any](./29_optional_variant_any.md)
+30. [30. Concurrency: thread, mutex, lock_guard, atomic](./30_concurrency_thread_mutex_atomic.md)
 
 ## Related Code Traps
 
@@ -65,6 +66,7 @@ This folder contains topic-based C++ review notes.
 27. [span / array / vector view Demo](../code_traps/span_array_vector_view.cpp)
 28. [RAII / Exception Safety Demo](../code_traps/raii_exception_safety.cpp)
 29. [optional / variant / any Demo](../code_traps/optional_variant_any.cpp)
+30. [concurrency / thread / mutex / atomic Demo](../code_traps/concurrency_thread_mutex_atomic.cpp)
 
 ## Suggested Naming Rule
 

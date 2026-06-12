@@ -62,6 +62,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [28. RAII, Exception Safety, and Scope Guard](../cheat_sheet/28_raii_exception_safety_scope_guard.md)
 29. [optional / variant / any Demo](./optional_variant_any.cpp)
     Related note: [29. optional, variant, and any](../cheat_sheet/29_optional_variant_any.md)
+30. [concurrency / thread / mutex / atomic Demo](./concurrency_thread_mutex_atomic.cpp)
+    Related note: [30. Concurrency: thread, mutex, lock_guard, atomic](../cheat_sheet/30_concurrency_thread_mutex_atomic.md)
 
 ## Suggested Naming Rule
 
