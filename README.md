@@ -36,6 +36,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 28: RAII, Exception Safety, and Scope Guard](./cheat_sheet/28_raii_exception_safety_scope_guard.md)
 - [Topic 29: optional, variant, and any](./cheat_sheet/29_optional_variant_any.md)
 - [Topic 30: Concurrency: thread, mutex, lock_guard, atomic](./cheat_sheet/30_concurrency_thread_mutex_atomic.md)
+- [Topic 31: condition_variable and Producer-Consumer Queue](./cheat_sheet/31_condition_variable_producer_consumer.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
@@ -66,6 +67,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Trap: RAII / Exception Safety Demo](./code_traps/raii_exception_safety.cpp)
 - [Code Trap: optional / variant / any Demo](./code_traps/optional_variant_any.cpp)
 - [Code Trap: concurrency / thread / mutex / atomic Demo](./code_traps/concurrency_thread_mutex_atomic.cpp)
+- [Code Trap: condition_variable / producer-consumer Demo](./code_traps/condition_variable_producer_consumer.cpp)
 
 ## Repository Structure
 
@@ -136,6 +138,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
     Related note: [29. optional, variant, and any](./cheat_sheet/29_optional_variant_any.md)
 30. [concurrency / thread / mutex / atomic Demo](./code_traps/concurrency_thread_mutex_atomic.cpp)
     Related note: [30. Concurrency: thread, mutex, lock_guard, atomic](./cheat_sheet/30_concurrency_thread_mutex_atomic.md)
+31. [condition_variable / producer-consumer Demo](./code_traps/condition_variable_producer_consumer.cpp)
+    Related note: [31. condition_variable and Producer-Consumer Queue](./cheat_sheet/31_condition_variable_producer_consumer.md)
 
 ## Planned Topics
 

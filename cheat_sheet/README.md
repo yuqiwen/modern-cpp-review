@@ -34,6 +34,7 @@ This folder contains topic-based C++ review notes.
 28. [28. RAII, Exception Safety, and Scope Guard](./28_raii_exception_safety_scope_guard.md)
 29. [29. optional, variant, and any](./29_optional_variant_any.md)
 30. [30. Concurrency: thread, mutex, lock_guard, atomic](./30_concurrency_thread_mutex_atomic.md)
+31. [31. condition_variable and Producer-Consumer Queue](./31_condition_variable_producer_consumer.md)
 
 ## Related Code Traps
 
@@ -67,6 +68,7 @@ This folder contains topic-based C++ review notes.
 28. [RAII / Exception Safety Demo](../code_traps/raii_exception_safety.cpp)
 29. [optional / variant / any Demo](../code_traps/optional_variant_any.cpp)
 30. [concurrency / thread / mutex / atomic Demo](../code_traps/concurrency_thread_mutex_atomic.cpp)
+31. [condition_variable / producer-consumer Demo](../code_traps/condition_variable_producer_consumer.cpp)
 
 ## Suggested Naming Rule
 
