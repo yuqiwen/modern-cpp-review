@@ -66,6 +66,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [30. Concurrency: thread, mutex, lock_guard, atomic](../cheat_sheet/30_concurrency_thread_mutex_atomic.md)
 31. [condition_variable / producer-consumer Demo](./condition_variable_producer_consumer.cpp)
     Related note: [31. condition_variable and Producer-Consumer Queue](../cheat_sheet/31_condition_variable_producer_consumer.md)
+32. [future / promise / async Demo](./future_promise_async.cpp)
+    Related note: [32. future, promise, and async](../cheat_sheet/32_future_promise_async.md)
 
 ## Suggested Naming Rule
 
