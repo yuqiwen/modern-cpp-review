@@ -68,6 +68,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [31. condition_variable and Producer-Consumer Queue](../cheat_sheet/31_condition_variable_producer_consumer.md)
 32. [future / promise / async Demo](./future_promise_async.cpp)
     Related note: [32. future, promise, and async](../cheat_sheet/32_future_promise_async.md)
+33. [atomic memory order Demo](./atomic_memory_order.cpp)
+    Related note: [33. Atomic Memory Ordering](../cheat_sheet/33_atomic_memory_order.md)
 
 ## Suggested Naming Rule
 
