@@ -37,6 +37,7 @@ This folder contains topic-based C++ review notes.
 31. [31. condition_variable and Producer-Consumer Queue](./31_condition_variable_producer_consumer.md)
 32. [32. future, promise, and async](./32_future_promise_async.md)
 33. [33. Atomic Memory Ordering](./33_atomic_memory_order.md)
+34. [34. Semaphore, Workers, and Thread Pool Basics](./34_semaphore_worker_thread_pool.md)
 
 ## Related Code Traps
 
@@ -73,6 +74,7 @@ This folder contains topic-based C++ review notes.
 31. [condition_variable / producer-consumer Demo](../code_traps/condition_variable_producer_consumer.cpp)
 32. [future / promise / async Demo](../code_traps/future_promise_async.cpp)
 33. [atomic memory order Demo](../code_traps/atomic_memory_order.cpp)
+34. [semaphore / worker / thread pool Demo](../code_traps/semaphore_worker_thread_pool.cpp)
 
 ## Suggested Naming Rule
 

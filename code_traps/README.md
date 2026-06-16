@@ -70,6 +70,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [32. future, promise, and async](../cheat_sheet/32_future_promise_async.md)
 33. [atomic memory order Demo](./atomic_memory_order.cpp)
     Related note: [33. Atomic Memory Ordering](../cheat_sheet/33_atomic_memory_order.md)
+34. [semaphore / worker / thread pool Demo](./semaphore_worker_thread_pool.cpp)
+    Related note: [34. Semaphore, Workers, and Thread Pool Basics](../cheat_sheet/34_semaphore_worker_thread_pool.md)
 
 ## Suggested Naming Rule
 

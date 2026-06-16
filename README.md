@@ -39,6 +39,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 31: condition_variable and Producer-Consumer Queue](./cheat_sheet/31_condition_variable_producer_consumer.md)
 - [Topic 32: future, promise, and async](./cheat_sheet/32_future_promise_async.md)
 - [Topic 33: Atomic Memory Ordering](./cheat_sheet/33_atomic_memory_order.md)
+- [Topic 34: Semaphore, Workers, and Thread Pool Basics](./cheat_sheet/34_semaphore_worker_thread_pool.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
@@ -72,6 +73,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Trap: condition_variable / producer-consumer Demo](./code_traps/condition_variable_producer_consumer.cpp)
 - [Code Trap: future / promise / async Demo](./code_traps/future_promise_async.cpp)
 - [Code Trap: atomic memory order Demo](./code_traps/atomic_memory_order.cpp)
+- [Code Trap: semaphore / worker / thread pool Demo](./code_traps/semaphore_worker_thread_pool.cpp)
 
 ## Repository Structure
 
@@ -148,6 +150,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
     Related note: [32. future, promise, and async](./cheat_sheet/32_future_promise_async.md)
 33. [atomic memory order Demo](./code_traps/atomic_memory_order.cpp)
     Related note: [33. Atomic Memory Ordering](./cheat_sheet/33_atomic_memory_order.md)
+34. [semaphore / worker / thread pool Demo](./code_traps/semaphore_worker_thread_pool.cpp)
+    Related note: [34. Semaphore, Workers, and Thread Pool Basics](./cheat_sheet/34_semaphore_worker_thread_pool.md)
 
 ## Planned Topics
 
