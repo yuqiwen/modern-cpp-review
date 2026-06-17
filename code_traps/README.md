@@ -72,6 +72,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [33. Atomic Memory Ordering](../cheat_sheet/33_atomic_memory_order.md)
 34. [semaphore / worker / thread pool Demo](./semaphore_worker_thread_pool.cpp)
     Related note: [34. Semaphore, Workers, and Thread Pool Basics](../cheat_sheet/34_semaphore_worker_thread_pool.md)
+35. [latch / barrier / phase sync Demo](./latch_barrier_phase_sync.cpp)
+    Related note: [35. std::latch, std::barrier, and Phase Synchronization](../cheat_sheet/35_latch_barrier_phase_sync.md)
 
 ## Suggested Naming Rule
 

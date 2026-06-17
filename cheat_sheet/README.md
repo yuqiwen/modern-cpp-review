@@ -38,6 +38,7 @@ This folder contains topic-based C++ review notes.
 32. [32. future, promise, and async](./32_future_promise_async.md)
 33. [33. Atomic Memory Ordering](./33_atomic_memory_order.md)
 34. [34. Semaphore, Workers, and Thread Pool Basics](./34_semaphore_worker_thread_pool.md)
+35. [35. std::latch, std::barrier, and Phase Synchronization](./35_latch_barrier_phase_sync.md)
 
 ## Related Code Traps
 
@@ -75,6 +76,7 @@ This folder contains topic-based C++ review notes.
 32. [future / promise / async Demo](../code_traps/future_promise_async.cpp)
 33. [atomic memory order Demo](../code_traps/atomic_memory_order.cpp)
 34. [semaphore / worker / thread pool Demo](../code_traps/semaphore_worker_thread_pool.cpp)
+35. [latch / barrier / phase sync Demo](../code_traps/latch_barrier_phase_sync.cpp)
 
 ## Suggested Naming Rule
 
