@@ -74,6 +74,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [34. Semaphore, Workers, and Thread Pool Basics](../cheat_sheet/34_semaphore_worker_thread_pool.md)
 35. [latch / barrier / phase sync Demo](./latch_barrier_phase_sync.cpp)
     Related note: [35. std::latch, std::barrier, and Phase Synchronization](../cheat_sheet/35_latch_barrier_phase_sync.md)
+36. [jthread / stop_token / cancellation Demo](./jthread_stop_token_cancellation.cpp)
+    Related note: [36. std::jthread, stop_token, and Cooperative Cancellation](../cheat_sheet/36_jthread_stop_token_cancellation.md)
 
 ## Suggested Naming Rule
 

@@ -41,6 +41,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 33: Atomic Memory Ordering](./cheat_sheet/33_atomic_memory_order.md)
 - [Topic 34: Semaphore, Workers, and Thread Pool Basics](./cheat_sheet/34_semaphore_worker_thread_pool.md)
 - [Topic 35: std::latch, std::barrier, and Phase Synchronization](./cheat_sheet/35_latch_barrier_phase_sync.md)
+- [Topic 36: std::jthread, stop_token, and Cooperative Cancellation](./cheat_sheet/36_jthread_stop_token_cancellation.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
@@ -76,6 +77,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Trap: atomic memory order Demo](./code_traps/atomic_memory_order.cpp)
 - [Code Trap: semaphore / worker / thread pool Demo](./code_traps/semaphore_worker_thread_pool.cpp)
 - [Code Trap: latch / barrier / phase sync Demo](./code_traps/latch_barrier_phase_sync.cpp)
+- [Code Trap: jthread / stop_token / cancellation Demo](./code_traps/jthread_stop_token_cancellation.cpp)
 
 ## Repository Structure
 
@@ -156,6 +158,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
     Related note: [34. Semaphore, Workers, and Thread Pool Basics](./cheat_sheet/34_semaphore_worker_thread_pool.md)
 35. [latch / barrier / phase sync Demo](./code_traps/latch_barrier_phase_sync.cpp)
     Related note: [35. std::latch, std::barrier, and Phase Synchronization](./cheat_sheet/35_latch_barrier_phase_sync.md)
+36. [jthread / stop_token / cancellation Demo](./code_traps/jthread_stop_token_cancellation.cpp)
+    Related note: [36. std::jthread, stop_token, and Cooperative Cancellation](./cheat_sheet/36_jthread_stop_token_cancellation.md)
 
 ## Planned Topics
 
