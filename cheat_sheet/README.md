@@ -41,6 +41,8 @@ This folder contains topic-based C++ review notes.
 35. [35. std::latch, std::barrier, and Phase Synchronization](./35_latch_barrier_phase_sync.md)
 36. [36. std::jthread, stop_token, and Cooperative Cancellation](./36_jthread_stop_token_cancellation.md)
 37. [37. std::call_once, std::once_flag, and thread_local](./37_call_once_thread_local.md)
+38. [38. shared_mutex and Reader-Writer Locks](./38_shared_mutex_reader_writer_lock.md)
+39. [39. False Sharing and Cache Lines](./39_false_sharing_cache_line.md)
 
 ## Related Code Traps
 
@@ -81,6 +83,8 @@ This folder contains topic-based C++ review notes.
 35. [latch / barrier / phase sync Demo](../code_traps/latch_barrier_phase_sync.cpp)
 36. [jthread / stop_token / cancellation Demo](../code_traps/jthread_stop_token_cancellation.cpp)
 37. [call_once / thread_local Demo](../code_traps/call_once_thread_local.cpp)
+38. [shared_mutex / reader-writer lock Demo](../code_traps/shared_mutex_reader_writer_lock.cpp)
+39. [false sharing Demo](../code_traps/false_sharing.cpp)
 
 ## Suggested Naming Rule
 

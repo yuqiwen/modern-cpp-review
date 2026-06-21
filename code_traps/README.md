@@ -78,6 +78,10 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [36. std::jthread, stop_token, and Cooperative Cancellation](../cheat_sheet/36_jthread_stop_token_cancellation.md)
 37. [call_once / thread_local Demo](./call_once_thread_local.cpp)
     Related note: [37. std::call_once, std::once_flag, and thread_local](../cheat_sheet/37_call_once_thread_local.md)
+38. [shared_mutex / reader-writer lock Demo](./shared_mutex_reader_writer_lock.cpp)
+    Related note: [38. shared_mutex and Reader-Writer Locks](../cheat_sheet/38_shared_mutex_reader_writer_lock.md)
+39. [false sharing Demo](./false_sharing.cpp)
+    Related note: [39. False Sharing and Cache Lines](../cheat_sheet/39_false_sharing_cache_line.md)
 
 ## Suggested Naming Rule
 
