@@ -82,6 +82,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [38. shared_mutex and Reader-Writer Locks](../cheat_sheet/38_shared_mutex_reader_writer_lock.md)
 39. [false sharing Demo](./false_sharing.cpp)
     Related note: [39. False Sharing and Cache Lines](../cheat_sheet/39_false_sharing_cache_line.md)
+40. [lock-free / CAS / ABA Demo](./lock_free_cas_aba.cpp)
+    Related note: [40. Lock-Free Programming, CAS, and the ABA Problem](../cheat_sheet/40_lock_free_cas_aba.md)
 
 ## Suggested Naming Rule
 

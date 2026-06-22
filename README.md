@@ -45,6 +45,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 37: std::call_once, std::once_flag, and thread_local](./cheat_sheet/37_call_once_thread_local.md)
 - [Topic 38: shared_mutex and Reader-Writer Locks](./cheat_sheet/38_shared_mutex_reader_writer_lock.md)
 - [Topic 39: False Sharing and Cache Lines](./cheat_sheet/39_false_sharing_cache_line.md)
+- [Topic 40: Lock-Free Programming, CAS, and the ABA Problem](./cheat_sheet/40_lock_free_cas_aba.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
@@ -84,6 +85,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Trap: call_once / thread_local Demo](./code_traps/call_once_thread_local.cpp)
 - [Code Trap: shared_mutex / reader-writer lock Demo](./code_traps/shared_mutex_reader_writer_lock.cpp)
 - [Code Trap: false sharing Demo](./code_traps/false_sharing.cpp)
+- [Code Trap: lock-free / CAS / ABA Demo](./code_traps/lock_free_cas_aba.cpp)
 
 ## Repository Structure
 
@@ -172,6 +174,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
     Related note: [38. shared_mutex and Reader-Writer Locks](./cheat_sheet/38_shared_mutex_reader_writer_lock.md)
 39. [false sharing Demo](./code_traps/false_sharing.cpp)
     Related note: [39. False Sharing and Cache Lines](./cheat_sheet/39_false_sharing_cache_line.md)
+40. [lock-free / CAS / ABA Demo](./code_traps/lock_free_cas_aba.cpp)
+    Related note: [40. Lock-Free Programming, CAS, and the ABA Problem](./cheat_sheet/40_lock_free_cas_aba.md)
 
 ## Planned Topics
 

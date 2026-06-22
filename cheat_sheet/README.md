@@ -43,6 +43,7 @@ This folder contains topic-based C++ review notes.
 37. [37. std::call_once, std::once_flag, and thread_local](./37_call_once_thread_local.md)
 38. [38. shared_mutex and Reader-Writer Locks](./38_shared_mutex_reader_writer_lock.md)
 39. [39. False Sharing and Cache Lines](./39_false_sharing_cache_line.md)
+40. [40. Lock-Free Programming, CAS, and the ABA Problem](./40_lock_free_cas_aba.md)
 
 ## Related Code Traps
 
@@ -85,6 +86,7 @@ This folder contains topic-based C++ review notes.
 37. [call_once / thread_local Demo](../code_traps/call_once_thread_local.cpp)
 38. [shared_mutex / reader-writer lock Demo](../code_traps/shared_mutex_reader_writer_lock.cpp)
 39. [false sharing Demo](../code_traps/false_sharing.cpp)
+40. [lock-free / CAS / ABA Demo](../code_traps/lock_free_cas_aba.cpp)
 
 ## Suggested Naming Rule
 
