@@ -84,6 +84,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [39. False Sharing and Cache Lines](../cheat_sheet/39_false_sharing_cache_line.md)
 40. [lock-free / CAS / ABA Demo](./lock_free_cas_aba.cpp)
     Related note: [40. Lock-Free Programming, CAS, and the ABA Problem](../cheat_sheet/40_lock_free_cas_aba.md)
+41. [deadlock / livelock / starvation Demo](./deadlock_livelock_starvation.cpp)
+    Related note: [41. Deadlock, Livelock, Starvation, and Lock Ordering](../cheat_sheet/41_deadlock_livelock_starvation.md)
 
 ## Suggested Naming Rule
 

@@ -46,6 +46,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 38: shared_mutex and Reader-Writer Locks](./cheat_sheet/38_shared_mutex_reader_writer_lock.md)
 - [Topic 39: False Sharing and Cache Lines](./cheat_sheet/39_false_sharing_cache_line.md)
 - [Topic 40: Lock-Free Programming, CAS, and the ABA Problem](./cheat_sheet/40_lock_free_cas_aba.md)
+- [Topic 41: Deadlock, Livelock, Starvation, and Lock Ordering](./cheat_sheet/41_deadlock_livelock_starvation.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
@@ -86,6 +87,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Trap: shared_mutex / reader-writer lock Demo](./code_traps/shared_mutex_reader_writer_lock.cpp)
 - [Code Trap: false sharing Demo](./code_traps/false_sharing.cpp)
 - [Code Trap: lock-free / CAS / ABA Demo](./code_traps/lock_free_cas_aba.cpp)
+- [Code Trap: deadlock / livelock / starvation Demo](./code_traps/deadlock_livelock_starvation.cpp)
 
 ## Repository Structure
 
@@ -176,6 +178,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
     Related note: [39. False Sharing and Cache Lines](./cheat_sheet/39_false_sharing_cache_line.md)
 40. [lock-free / CAS / ABA Demo](./code_traps/lock_free_cas_aba.cpp)
     Related note: [40. Lock-Free Programming, CAS, and the ABA Problem](./cheat_sheet/40_lock_free_cas_aba.md)
+41. [deadlock / livelock / starvation Demo](./code_traps/deadlock_livelock_starvation.cpp)
+    Related note: [41. Deadlock, Livelock, Starvation, and Lock Ordering](./cheat_sheet/41_deadlock_livelock_starvation.md)
 
 ## Planned Topics
 
