@@ -86,6 +86,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [40. Lock-Free Programming, CAS, and the ABA Problem](../cheat_sheet/40_lock_free_cas_aba.md)
 41. [deadlock / livelock / starvation Demo](./deadlock_livelock_starvation.cpp)
     Related note: [41. Deadlock, Livelock, Starvation, and Lock Ordering](../cheat_sheet/41_deadlock_livelock_starvation.md)
+42. [bounded blocking queue Demo](./bounded_blocking_queue.cpp)
+    Related note: [42. Bounded Blocking Queue, Backpressure, and Graceful Shutdown](../cheat_sheet/42_bounded_blocking_queue_backpressure.md)
 
 ## Suggested Naming Rule
 

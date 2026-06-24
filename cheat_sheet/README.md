@@ -45,6 +45,7 @@ This folder contains topic-based C++ review notes.
 39. [39. False Sharing and Cache Lines](./39_false_sharing_cache_line.md)
 40. [40. Lock-Free Programming, CAS, and the ABA Problem](./40_lock_free_cas_aba.md)
 41. [41. Deadlock, Livelock, Starvation, and Lock Ordering](./41_deadlock_livelock_starvation.md)
+42. [42. Bounded Blocking Queue, Backpressure, and Graceful Shutdown](./42_bounded_blocking_queue_backpressure.md)
 
 ## Related Code Traps
 
@@ -89,6 +90,7 @@ This folder contains topic-based C++ review notes.
 39. [false sharing Demo](../code_traps/false_sharing.cpp)
 40. [lock-free / CAS / ABA Demo](../code_traps/lock_free_cas_aba.cpp)
 41. [deadlock / livelock / starvation Demo](../code_traps/deadlock_livelock_starvation.cpp)
+42. [bounded blocking queue Demo](../code_traps/bounded_blocking_queue.cpp)
 
 ## Suggested Naming Rule
 
