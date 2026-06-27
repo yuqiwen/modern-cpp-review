@@ -47,6 +47,7 @@ This folder contains topic-based C++ review notes.
 41. [41. Deadlock, Livelock, Starvation, and Lock Ordering](./41_deadlock_livelock_starvation.md)
 42. [42. Bounded Blocking Queue, Backpressure, and Graceful Shutdown](./42_bounded_blocking_queue_backpressure.md)
 43. [43. Thread Pool, Task Submission, Futures, and Shutdown](./43_thread_pool_future_shutdown.md)
+44. [44. Work Stealing and Task Scheduling](./44_work_stealing_task_scheduling.md)
 
 ## Related Code Traps
 
@@ -93,6 +94,7 @@ This folder contains topic-based C++ review notes.
 41. [deadlock / livelock / starvation Demo](../code_traps/deadlock_livelock_starvation.cpp)
 42. [bounded blocking queue Demo](../code_traps/bounded_blocking_queue.cpp)
 43. [thread pool / future / shutdown Demo](../code_traps/thread_pool_future_shutdown.cpp)
+44. [work stealing scheduler Demo](../code_traps/work_stealing_scheduler.cpp)
 
 ## Suggested Naming Rule
 

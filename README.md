@@ -49,6 +49,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Topic 41: Deadlock, Livelock, Starvation, and Lock Ordering](./cheat_sheet/41_deadlock_livelock_starvation.md)
 - [Topic 42: Bounded Blocking Queue, Backpressure, and Graceful Shutdown](./cheat_sheet/42_bounded_blocking_queue_backpressure.md)
 - [Topic 43: Thread Pool, Task Submission, Futures, and Shutdown](./cheat_sheet/43_thread_pool_future_shutdown.md)
+- [Topic 44: Work Stealing and Task Scheduling](./cheat_sheet/44_work_stealing_task_scheduling.md)
 - [Code Trap: Pointer / Reference / Parameter Demo](./code_traps/pointer_reference_parameter.cpp)
 - [Code Trap: Object Lifetime / Storage Demo](./code_traps/object_lifetime_storage.cpp)
 - [Code Trap: Constructor / Destructor / RAII Demo](./code_traps/constructor_destructor_raii.cpp)
@@ -92,6 +93,7 @@ This repository is a personal C++ review and interview-prep notebook focused on 
 - [Code Trap: deadlock / livelock / starvation Demo](./code_traps/deadlock_livelock_starvation.cpp)
 - [Code Trap: bounded blocking queue Demo](./code_traps/bounded_blocking_queue.cpp)
 - [Code Trap: thread pool / future / shutdown Demo](./code_traps/thread_pool_future_shutdown.cpp)
+- [Code Trap: work stealing scheduler Demo](./code_traps/work_stealing_scheduler.cpp)
 
 ## Repository Structure
 
@@ -188,6 +190,8 @@ This repository is a personal C++ review and interview-prep notebook focused on 
     Related note: [42. Bounded Blocking Queue, Backpressure, and Graceful Shutdown](./cheat_sheet/42_bounded_blocking_queue_backpressure.md)
 43. [thread pool / future / shutdown Demo](./code_traps/thread_pool_future_shutdown.cpp)
     Related note: [43. Thread Pool, Task Submission, Futures, and Shutdown](./cheat_sheet/43_thread_pool_future_shutdown.md)
+44. [work stealing scheduler Demo](./code_traps/work_stealing_scheduler.cpp)
+    Related note: [44. Work Stealing and Task Scheduling](./cheat_sheet/44_work_stealing_task_scheduling.md)
 
 ## Planned Topics
 

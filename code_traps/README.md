@@ -90,6 +90,8 @@ This folder contains small C++ programs that demonstrate common interview and im
     Related note: [42. Bounded Blocking Queue, Backpressure, and Graceful Shutdown](../cheat_sheet/42_bounded_blocking_queue_backpressure.md)
 43. [thread pool / future / shutdown Demo](./thread_pool_future_shutdown.cpp)
     Related note: [43. Thread Pool, Task Submission, Futures, and Shutdown](../cheat_sheet/43_thread_pool_future_shutdown.md)
+44. [work stealing scheduler Demo](./work_stealing_scheduler.cpp)
+    Related note: [44. Work Stealing and Task Scheduling](../cheat_sheet/44_work_stealing_task_scheduling.md)
 
 ## Suggested Naming Rule
 
